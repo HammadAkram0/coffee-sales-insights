@@ -1,0 +1,16 @@
+{
+  "name": "coffee-sales-insights",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build:fabric": "echo 'no build'"
+  },
+  "dependencies": {
+    "@microsoft/rayfin-client": "^1.33.1",
+    "@microsoft/rayfin-core": "^1.33.1",
+    "@microsoft/rayfin-data": "^1.33.1"
+  },
+  "devDependencies": {
+    "@microsoft/rayfin-cli": "^1.33.1"
+  }
+}

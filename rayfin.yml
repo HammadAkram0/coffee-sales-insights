@@ -1,0 +1,11 @@
+id: coffee-sales-insights
+name: Coffee Sales Insights
+version: 1.0.0
+services:
+  auth:
+    enabled: false
+  staticHosting:
+    enabled: true
+    folder: dist
+    buildCommand: echo "no build"
+    indexDocument: index.html
